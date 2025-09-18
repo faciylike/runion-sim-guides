@@ -57,3 +57,10 @@ layout: default
   *   **客服语言**：大型运营商门店有英语服务，小代理店主要用法语或克里奥尔语。学句万能法语：“Bonjour, carte SIM pour Internet, s'il vous plaît?” (你好，请给我一张上网用的SIM卡)。
 
 　　最后啰嗦一句：留尼汪的美景值得你放下手机沉浸感受，但一张靠谱的手机卡，就像拴在手腕上的隐形安全绳，让你探索时心里更踏实。现在，是时候去打卡那座月球表面般的火山了——记得先发个定位！🌋
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Runion eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/runion-data-plans)
